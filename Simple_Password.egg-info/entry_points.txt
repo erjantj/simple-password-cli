@@ -1,3 +1,0 @@
-[console_scripts]
-simple-password = simple_password.cli:main
-
