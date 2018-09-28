@@ -20,6 +20,10 @@ Create new password::
 
     $ simple-password new
 
+Unlock password by id::
+
+    $ simple-password unlock <id>
+
 Delete password password by id::
 
     $ simple-password delete <id>
