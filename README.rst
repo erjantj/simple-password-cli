@@ -12,19 +12,19 @@ development dependencies*), the command you'll want to run is::
 
     $ python3 setup.py install 
 
-List existing passwords:
+List existing passwords::
 
     $ simple-password ls
 
-Create new password:
+Create new password::
 
     $ simple-password new
 
-Delete password password by id:
+Delete password password by id::
 
     $ simple-password delete <id>
 
-Update master password:
+Update master password::
 
     $ simple-password change
 
