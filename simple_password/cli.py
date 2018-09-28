@@ -2,11 +2,8 @@
 simple-password
 
 Usage:
-  simple-password login
-  simple-password logout
   simple-password ls
   simple-password new
-  simple-password update <id>
   simple-password unlock <id>
   simple-password delete <id>
   simple-password change
